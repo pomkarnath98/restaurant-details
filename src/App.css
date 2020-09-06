@@ -1,0 +1,29 @@
+button{
+  cursor: pointer;
+}
+h1{
+  text-align: center;
+  color: white;
+}
+.navBar{
+  margin-left: -8px;
+  position: fixed;
+  z-index: 1;
+  text-align: center;
+  background-color: rgb(27, 6, 41);
+  width: 100%;
+  top: 0;
+  opacity: 0.9;
+}
+.flexbox{
+  display: flex;
+}
+.flexbox > *{
+  color: white;
+  flex: 1;
+  margin: 5px;
+}
+.flexbox button:active{
+  background-color: red;
+  color: white;
+}
