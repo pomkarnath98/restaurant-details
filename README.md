@@ -1,6 +1,5 @@
 # restaurant-details
 
-Check the live page
 [Link to live page](https://restaurant-details.pomkarnath98.vercel.app/)
 
 ### How the page looks like
